@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to stay up to date on new technologies**
 
-- 👯 I’m looking to collaborate on **SaaS software**
+- 👯 I’m looking to collaborate on **SaaS**
 
 - 👨‍💻 All of my projects are available at [portfolio.portfolio](portfolio.portfolio)
 
